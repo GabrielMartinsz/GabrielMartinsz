@@ -1,13 +1,14 @@
 <div align="center">
-Hello! I'm Gabriel Martins 😁
-
+😁 Hello! I'm Gabriel Martins 😁 <br>
 🤖 In love with technology 🤖 <br>
 🎲 Data enthusiast 🎲 <br>
 🎮 Gamer 🎮 <br>
 ⚽ Football ⚽ <br>
 🥊 Boxing 🥊 <br>
 </div>
+
 <br>
+
 <div align="center">
   <a href="https://github.com/GabrielMartinsz">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GabrielMartinsz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -28,6 +29,8 @@ Hello! I'm Gabriel Martins 😁
   <img align="center" alt="GM-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
   <img align="center" alt="GM-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="GM-VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="GM-Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg">
+  <img align="center" alt="GM-Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg">
   <img align="center" alt="GM-Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg">
   <img align="right" alt="Rafa-pic" height="120" style="border- radius:50px;"src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   
