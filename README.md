@@ -31,11 +31,7 @@
   <img align="center" alt="GM-VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="GM-Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg">
   <img align="center" alt="GM-Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg">
-  <img align="center" alt="GM-Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg">
   <img align="right" alt="Rafa-pic" height="120" style="border- radius:50px;"src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-  
-  
-  
 </div>
   
 ##
@@ -45,7 +41,6 @@
   <a href="https://www.linkedin.com/in/gabriel-martins999/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:martinsga999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.duolingo.com/profile/GabrielMar18409"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
-  <a href="https://gitlab.com/GabrielMartinsz"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   <a href="https://twitter.com/gaamartinsz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://steamcommunity.com/id/Coxinha1910/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"</a>
    
