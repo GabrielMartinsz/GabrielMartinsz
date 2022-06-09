@@ -4,7 +4,7 @@
 🎲 Data enthusiast 🎲 <br>
 🎮 Gamer 🎮 <br>
 ⚽ Football ⚽ <br>
-🥊 Boxing 🥊 <br>
+🥊 Boxing 🥊
 </div>
 
 ##
