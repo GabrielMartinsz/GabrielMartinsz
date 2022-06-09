@@ -15,7 +15,7 @@
   <img align="center" alt="gm-postgresql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="gm-mongodb" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="gm-docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="gm-docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/kubernetes-original.svg">
+  <img align="center" alt="gm-docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
   <img align="right" height="150" width="150" src="https://i.picasion.com/pic91/aea6625f73053f880b4ae0fcc69470f2.gif" width="300" height="300" border="0" /></a><br /><a href="https://picasion.com/"</a>
 </div>
   
