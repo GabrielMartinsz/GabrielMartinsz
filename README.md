@@ -10,7 +10,6 @@
   <img align="center" alt="gm-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gm-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gm-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <!--<img align="center" alt="gm-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="gm-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="gm-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="gm-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
