@@ -31,7 +31,7 @@
   <img align="center" alt="GM-VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="GM-Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg">
   <img align="center" alt="GM-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="right" alt="Rafa-pic" height="100" style="border- radius:50px;"src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/59f5cb5492f9dc45a8d8ea044308fb69.gif" width="100" height="120" border="0" alt="GM-Gif"</a>
 </div>
   
 ##
