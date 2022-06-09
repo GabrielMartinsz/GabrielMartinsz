@@ -1,29 +1,31 @@
 
-## Olá! Eu sou o Gabriel Martins
-<div>
+### Hello! I'm Gabriel Martins 😁
+
+- 🤖 In love with technology 🤖
+- 🎲 Data enthusiast 🎲
+- 🎮 Gamer 🎮
+- ⚽ Football ⚽
+- 🥊 Boxing 🥊
+
+<div align="center">
   <a href="https://github.com/GabrielMartinsz">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GabrielMartinsz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMartinsz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="gm-html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gm-css" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gm-js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gm-nodejs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="gm-python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="gm-mysql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="gm-postgresql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="gm-mongodb" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="gm-docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="right" height="150" width="150" src="https://i.picasion.com/pic91/aea6625f73053f880b4ae0fcc69470f2.gif" width="300" height="300" border="0" /></a><br />  <img align="right" height="150" width="150" src="https://i.picasion.com/pic91/aea6625f73053f880b4ae0fcc69470f2.gif" width="300" height="300" border="0" /></a><br /><a href="https://picasion.com/"</a>
+ 
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="GM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
 </div>
   
-  ##
-  
-<div> 
+##
+
+<div align="center">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-martins999/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:martinsga999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-martins999" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/gaamartinsz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://twitter.com/gaamartinsz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "http://portfoliogm.com/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
-</div> 
+  <a href="https://www.duolingo.com/profile/GabrielMar18409" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
+  <a href="https://gitlab.com/GabrielMartinsz" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/gaamartinsz/with_replies" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/Coxinha1910/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+</div>
