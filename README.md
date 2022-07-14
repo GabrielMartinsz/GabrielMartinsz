@@ -1,7 +1,6 @@
 <div align="center">
 😁 Hello! I'm Gabriel Martins 😁 <br>
 🤖 In love with technology 🤖 <br>
-🎲 Data enthusiast 🎲 <br>
 🎮 Gamer 🎮 <br>
 ⚽ Football ⚽ <br>
 🥊 Boxing 🥊
