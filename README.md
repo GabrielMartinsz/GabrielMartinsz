@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Gabriel and I am a Data Science enthusiast 👨‍🔬📊.</h1>
+<h2 align="center">Hi 👋, My name is Gabriel and I am a Data Science enthusiast 👨‍🔬📊.</h2>
 
 <div align="center">
   <h3>My Projects:</h3>
