@@ -26,5 +26,4 @@
 <p align="Center"> 
 <a href="https://linkedin.com/in/gabriel-martins999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-martins999" height="35" width="35" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/gabrielmartinsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gabrielmartinsz" height="35" width="35" /></a>
-<a href="https://www.behance.net/https://www.behance.net/gabrielmartinsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/gabrielmartinsz" height="35" width="35" /></a>
 </p>
