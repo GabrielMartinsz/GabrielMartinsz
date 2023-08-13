@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>My Projects:</h3>
- <p><a href="https://github.com/GabrielMartinsz/Data-Dashboards#readme" target="_blank"><strong>Data Dashboards</strong></a</p>
+  <h3><a href="https://github.com/GabrielMartinsz/Data-Dashboards#readme" target="_blank"><strong>Data Dashboards</strong></a</h3>
 </div>
 
 
