@@ -24,6 +24,6 @@
   
 <h3 align="Center">Connect with me:</h3>
 <p align="Center"> 
-<a href="https://linkedin.com/in/gabriel-martins999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-martins999" height="35" width="35" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/gabrielmartinsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gabrielmartinsz" height="35" width="35" /></a>
+<a href="https://linkedin.com/in/gabriel-martins999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-martins999" height="30" width="30" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/gabrielmartinsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gabrielmartinsz" height="30" width="30" /></a>
 </p>
