@@ -2,7 +2,9 @@
 
 <div align="center">
   <h3>My Projects:</h3>
-  <h3><a href="https://github.com/GabrielMartinsz/Data-Dashboards#readme" target="_blank"><strong>Data Dashboards</strong></a</h3>
+  <h4><a href="https://github.com/GabrielMartinsz/Data-Science/blob/main/README.md" target="_blank"><strong>Projects in Data Science</strong></h4>
+  <h4><a href="https://github.com/GabrielMartinsz/Data-Dashboards/blob/main/README.md" target="_blank"><strong>Projects on Dashboards</strong></h4>
+</strong></h3>
 </div>
 
 
